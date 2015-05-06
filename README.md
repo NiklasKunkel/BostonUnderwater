@@ -10,11 +10,11 @@ Various other bug fixes.
 Added more visualizations, analysis page.
 # BostonUnderwater
 
-![Home](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/blob/master/images/home.png)
+![Home](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/home.png)
 <b> Homepage </b>
 
-![Map](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/blob/master/images/map.png)
+![Map](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/map.png)
 <b> Google Maps Integration </b>
 
-![Analytics](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/blob/master/images/anlytics.png)
+![Analytics](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/anlytics.png)
 <b> Node Chart </b>
