@@ -16,5 +16,5 @@ Added more visualizations, analysis page.
 ![Map](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/map.png)
 <b> Google Maps Integration </b>
 
-![Analytics](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/anlytics.png)
+![Analytics](https://raw.githubusercontent.com/NiklasKunkel/BostonUnderwater/master/images/analytics.png)
 <b> Node Chart </b>
